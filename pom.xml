@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>jenkinsTest</name>
-  <url>http://maven.apache.org</url>
+  <url>http://tobas.sk</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
